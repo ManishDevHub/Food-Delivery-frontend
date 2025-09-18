@@ -7,8 +7,7 @@ export default function  () {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse unde ratione, voluptatem neque dolor nemo est ad reprehenderit vel! Perferendis harum vero consequuntur quibusdam facilis quia eligendi! Illo, molestias nesciunt. Excepturi, nam ipsa odio cumque, officia doloribus, quidem 
-                    facilis voluptatibus culpa minus sequi! Facere ullam reprehenderit in ad? Totam, rerum!</p>
+                <p>Tomato is your one-stop solution for ordering delicious food online. We bring your favorite meals right to your doorstep with speed, quality, and reliability. Whether it’s a quick bite or a family feast, Tomato makes food ordering simple and enjoyable.</p>
                      <div className="footer-social-icon">
                         <img src={assets.facebook_icon} alt="" /><img src={assets.twitter_icon} alt="" /><img src={assets.linkedin_icon} alt="" />
                      </div>
